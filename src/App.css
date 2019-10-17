@@ -1,0 +1,91 @@
+.App {
+  text-align: center;
+}
+.table-container{
+border: 2px solid #03A9F4;
+margin: auto;
+margin-top: 30px;
+width: 700px;
+
+}
+.table{
+  width: 100%;
+}
+td{
+  padding-left: 10px;
+}
+.color-row{
+background-color: #d0d0d0;
+line-height: 40px;
+font-size: 16px;
+text-align: left;
+}
+.simple-row{
+  line-height: 40px;
+  font-size: 16px;
+  text-align: left;
+}
+.data-id{
+  width:5%;
+}
+.first-name{
+  width:18%;
+}
+.last-name{
+  width: 18%;
+}
+.email{
+  width: 40%;
+}
+.gender{
+  width: 30%;
+}
+.table-header{
+  background-color: #03A9F4;
+  line-height: 40px;
+  width: 100%;
+}
+.input{
+  width: 80%;
+  line-height: 20px;
+}
+.active-link{
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+  display: inline;
+  cursor: pointer;
+  font-style: italic;
+}
+.unactive-link{
+  display: inline;
+  cursor: pointer;
+  font-size: 14px;
+  font-style: italic;
+}
+.button-class{
+  font-size: 14px;
+  display: inline;
+  margin-left: 10px;
+  color: blue;
+  cursor: pointer;
+  font-style: italic;
+}
+.bottom-container{
+  width: 100%;
+  padding-top: 10px;
+  height: 40px;
+  border-top: 2px solid #03A9F4;
+}
+.bottom-left{
+  float: left;
+}
+.bottom-right{
+  float: right;
+  margin-right: 20px;
+}
+.show-info{
+  font-size: 14px;
+  display: inline;
+  font-style: italic;
+}
